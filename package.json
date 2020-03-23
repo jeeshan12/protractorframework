@@ -1,0 +1,28 @@
+{
+  "name": "protractorproject",
+  "version": "1.0.0",
+  "description": "protractor impl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "protractor",
+    "pom",
+    "reports",
+    "constants"
+  ],
+  "author": "jeeshan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^3.5.9",
+    "@types/jasminewd2": "^2.0.8",
+    "jasmine-data-provider": "^2.2.0",
+    "moment": "^2.24.0",
+    "npm": "^6.14.3",
+    "protractor": "^5.4.3",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "typescript": "^3.8.3",
+    "winston": "^3.2.1"
+  }
+}

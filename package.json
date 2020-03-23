@@ -4,7 +4,8 @@
   "description": "protractor impl",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "wd-update": "npx webdriver-manager update",
+    "test": "npm run wd-update && npx protractor conf.js"
   },
   "keywords": [
     "protractor",

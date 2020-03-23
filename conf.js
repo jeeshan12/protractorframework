@@ -12,7 +12,7 @@ exports.config = {
   capabilities: {
     'browserName': 'chrome',
     chromeOptions: {
-      args: ['--disable-notifications']
+      args: ['--disable-notifications', '--headless', '--no-sandbox']
     }
   },
   onPrepare: () => {

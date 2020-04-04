@@ -36,6 +36,9 @@ describe('Dropdon test', () => {
         browser.wait(EC.elementToBeClickable(dropdownElement), 6000, 'Not visible')
         //Changes coming from master
         selectDataFromDropDown(dropdownElement)
+        //changes coming from branchgit config --global user.name
+        browser.sleep(4000)
+        browser.close()
 
     }, 30000)
 
@@ -43,4 +46,10 @@ describe('Dropdon test', () => {
         console.log('Print data in console')
 
     }, 30000)
+})
+
+it('Adding tests for web table ', async () => {
+    browser.get('http://www.way2automation.com/angularjs-protractor/webtables/')
+    browser.sleep(3000)
+    browser.quit()
 })

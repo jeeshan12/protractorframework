@@ -1,0 +1,138 @@
+2020-03-23T08:05:45.206Z info: aaaa
+2020-03-23T10:09:52.865Z info: aaaa
+2020-03-23T10:47:16.532Z info: URL  loaded successfully
+2020-03-23T10:47:16.544Z info: Session id is : d8d751a3f537058e23bc0bc0594499c3
+2020-03-23T10:47:21.036Z info: Verifying actual and expected Station value
+2020-03-23T10:51:59.393Z info: URL  loaded successfully
+2020-03-23T10:51:59.399Z info: Session id is : 01e8e1be74c5c1bf15d442e1131e7b0f
+2020-03-23T10:52:07.463Z info: Verifying actual and expected Station value
+2020-03-23T11:00:24.221Z info: URL  loaded successfully
+2020-03-23T11:00:24.225Z info: Session id is : 4fc381d54759d7cb3e3cc0bc1fff609d
+2020-03-23T11:00:29.288Z info: Verifying actual and expected Station value
+2020-03-23T11:03:28.733Z info: URL  loaded successfully
+2020-03-23T11:03:28.738Z info: Session id is : 32b65005348cfdd5fc5b54bc3a35b073
+2020-03-23T11:03:37.040Z info: Verifying actual and expected Station value
+2020-03-23T11:04:36.482Z info: URL  loaded successfully
+2020-03-23T11:04:36.486Z info: Session id is : 8451c35c23e6f1ed99b59b8822af6bbd
+2020-03-23T11:04:44.554Z info: Verifying actual and expected Station value
+2020-03-23T11:05:41.276Z info: URL  loaded successfully
+2020-03-23T11:05:41.283Z info: Session id is : 8dbbe4f7f96a6c4751d01fcc5f9e5792
+2020-03-23T11:05:49.852Z info: Verifying actual and expected Station value
+2020-03-23T11:07:38.099Z info: URL  loaded successfully
+2020-03-23T11:07:38.104Z info: Session id is : 14733a9a84832e69004774108be0f908
+2020-03-23T11:07:44.464Z info: Verifying actual and expected Station value
+2020-03-23T11:09:38.113Z info: URL  loaded successfully
+2020-03-23T11:09:38.116Z info: Session id is : e4927aa8b002efb70d722278d97cb7cc
+2020-03-23T11:19:28.783Z info: URL  loaded successfully
+2020-03-23T11:19:29.247Z error: Error is TypeError: browser.takeScreenShot is not a function
+2020-03-23T11:19:37.734Z info: Verifying actual and expected Station value
+2020-03-23T11:22:56.819Z info: URL  loaded successfully
+2020-03-23T11:22:56.827Z error: Error is TypeError: browser.takeScreenShot is not a function
+2020-03-23T11:23:01.070Z info: Verifying actual and expected Station value
+2020-03-23T11:28:45.822Z info: URL  loaded successfully
+2020-03-23T11:28:45.827Z info: Session id is : 95fd55da48ffd8aae11e286f045617ef
+2020-03-23T11:28:46.359Z error: Error is TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be one of type string, Buffer, or URL. Received type number
+2020-03-23T11:29:41.525Z info: URL  loaded successfully
+2020-03-23T11:29:41.533Z info: Session id is : 2f05dd757c78808dd97af0bfb49cb667
+2020-03-23T11:29:47.938Z info: Verifying actual and expected Station value
+2020-03-23T11:30:41.374Z info: URL  loaded successfully
+2020-03-23T11:30:41.381Z info: Session id is : 3c47096da58f74eee9166ca9a303cabb
+2020-03-23T11:30:47.814Z info: Verifying actual and expected Station value
+2020-03-23T11:31:34.322Z info: URL  loaded successfully
+2020-03-23T11:31:34.327Z info: Session id is : af22994296294006e7924c0f2cf63b7f
+2020-03-23T11:31:40.770Z info: Verifying actual and expected Station value
+2020-03-23T11:38:00.495Z info: URL  loaded successfully
+2020-03-23T11:38:00.511Z info: Session id is : ef86eb5768b30f6afd5e2e2d4efd9cd1
+2020-03-23T11:38:07.154Z info: Verifying actual and expected Station value
+2020-03-23T11:56:07.371Z info: URL  loaded successfully
+2020-03-23T11:56:07.429Z info: Session id is : 04c12252fdfeafd92077f13a25c39579
+2020-03-23T11:56:12.585Z info: Verifying actual and expected Station value
+2020-03-23T11:56:56.008Z info: URL  loaded successfully
+2020-03-23T11:56:56.014Z info: Session id is : 80e0fd2425bee9d099f28fba4e14a7c7
+2020-03-23T11:57:02.722Z info: Verifying actual and expected Station value
+2020-03-23T11:59:30.138Z info: URL  loaded successfully
+2020-03-23T11:59:30.148Z error: Error is TypeError: browser.takeScreenShot is not a function
+2020-03-23T11:59:37.664Z info: Verifying actual and expected Station value
+2020-03-23T12:01:00.179Z info: URL  loaded successfully
+2020-03-23T12:01:00.187Z error: Error is TypeError: browser.takeScreenShot is not a function
+2020-03-23T12:01:05.102Z info: Verifying actual and expected Station value
+2020-03-23T12:02:19.145Z info: URL  loaded successfully
+2020-03-23T12:02:19.156Z info: Session id is : 8208c42a2078e299ad39196eff8ccb5c
+2020-03-23T12:02:25.893Z info: Verifying actual and expected Station value
+2020-03-23T12:04:14.330Z info: URL  loaded successfully
+2020-03-23T12:04:14.338Z info: Session id is : 5ce5c5ae863614fe2d699ef354de3837
+2020-03-23T12:04:21.376Z info: Verifying actual and expected Station value
+2020-03-23T12:09:02.332Z info: URL  loaded successfully
+2020-03-23T12:09:02.337Z info: Session id is : ec966d3651ef4ad2042f452ced345d29
+2020-03-23T12:09:10.285Z info: Verifying actual and expected Station value
+2020-03-23T12:52:23.013Z info: URL  loaded successfully
+2020-03-23T12:52:23.021Z info: Session id is : 41bd2311c4e58db7166d7d5ddc996c85
+2020-03-23T12:52:38.271Z info: Verifying actual and expected Station value
+2020-03-23T12:54:00.994Z info: URL  loaded successfully
+2020-03-23T12:54:01.004Z info: Session id is : 9be935490a7419640a1374bff93b9fef
+2020-03-23T12:54:08.573Z info: Verifying actual and expected Station value
+2020-03-23T12:54:30.968Z info: URL  loaded successfully
+2020-03-23T12:54:30.971Z info: Session id is : 7d62c5ee36b1fe50ab2bcb8e2cbdffe7
+2020-03-23T12:55:04.641Z info: URL  loaded successfully
+2020-03-23T12:55:04.646Z info: Session id is : c2c46d502644e22efc076dee95749c99
+2020-03-23T12:55:38.550Z info: URL  loaded successfully
+2020-03-23T12:55:38.555Z info: Session id is : 584135001d4dd864b0755963eb015579
+2020-03-23T12:55:57.218Z info: URL  loaded successfully
+2020-03-23T12:55:57.225Z info: Session id is : 8d0a898369b81515d9b7c3035430e695
+2020-03-23T12:57:13.411Z info: URL  loaded successfully
+2020-03-23T12:57:13.415Z info: Session id is : 3929d3394c7146be10deba4073581f42
+2020-03-23T12:58:27.556Z info: URL  loaded successfully
+2020-03-23T12:58:27.565Z info: Session id is : e43b0b376db727e89be85a34e1562390
+2020-03-23T12:59:09.876Z info: URL  loaded successfully
+2020-03-23T12:59:09.880Z info: Session id is : e82f13ee3c290e8d8fb7d3236164df1e
+2020-03-23T13:00:02.146Z info: URL  loaded successfully
+2020-03-23T13:00:02.149Z info: Session id is : 1f0a766da011269e63b84b803491d41b
+2020-03-23T13:03:57.966Z info: URL  loaded successfully
+2020-03-23T13:03:57.974Z info: Session id is : 13fd613bdcdac1509e35bf140e833eef
+2020-03-23T13:04:03.703Z info: Verifying actual and expected Station value
+2020-03-23T13:19:36.882Z info: URL  loaded successfully
+2020-03-23T13:19:36.885Z info: Session id is : fbac8ea57dcfb570765a3a0d44604a5e
+2020-03-23T13:31:23.991Z info: URL  loaded successfully
+2020-03-23T13:31:24.006Z info: Session id is : 5d902d67726bfd6915eb5d3c7d741197
+2020-03-23T13:31:29.682Z info: Verifying actual and expected Station value
+2020-03-23T13:40:19.235Z info: URL  loaded successfully
+2020-03-23T13:40:19.257Z info: Session id is : 8effe15dba45d91766fec3dca7e8557a
+2020-03-23T13:40:27.057Z info: Verifying actual and expected Station value
+2020-03-29T17:32:46.321Z info: URL  loaded successfully
+2020-03-29T17:32:46.366Z info: Session id is : 648d0a91bcf3a0f25dcbe87d159fafda
+2020-03-29T17:32:52.694Z info: Verifying actual and expected Station value
+2020-03-29T17:50:10.728Z info: URL  loaded successfully
+2020-03-29T17:50:10.734Z info: Session id is : 57ef6aefdb337292ca79baf3ac68b103
+2020-03-29T17:52:04.833Z info: URL  loaded successfully
+2020-03-29T17:52:04.840Z info: Session id is : 15f9baeeabdca44276b8a31f965773f6
+2020-03-29T17:54:09.830Z info: URL  loaded successfully
+2020-03-29T17:54:09.835Z info: Session id is : 6f40d6d82354b9d3c1110274b3021bb5
+2020-03-29T17:54:26.995Z info: Verifying actual and expected Station value
+2020-03-29T17:56:11.484Z info: URL  loaded successfully
+2020-03-29T17:56:11.506Z info: Session id is : c7f6ebf96c06cd246ee490273b196e59
+2020-03-29T18:02:18.036Z info: URL  loaded successfully
+2020-03-29T18:02:18.042Z info: Session id is : 48a7f8ac579c79cf959358b2392ca8f2
+2020-03-29T18:05:57.097Z info: URL  loaded successfully
+2020-03-29T18:05:57.104Z info: Session id is : 162fb0b5a6454eef9bd4a448af2dd019
+2020-03-29T18:06:17.345Z info: Verifying actual and expected Station value
+2020-03-29T18:06:53.833Z info: URL  loaded successfully
+2020-03-29T18:06:53.841Z info: Session id is : 073d2b1919e69f4255914404e1d93495
+2020-03-29T18:07:02.974Z info: Verifying actual and expected Station value
+2020-03-29T18:07:44.164Z info: URL  loaded successfully
+2020-03-29T18:07:44.170Z info: Session id is : ebd0a36d24ce3a4b02b87ee8af0cf19a
+2020-03-29T18:07:49.054Z info: Verifying actual and expected Station value
+2020-03-29T18:09:53.989Z info: URL  loaded successfully
+2020-03-29T18:09:53.994Z info: Session id is : 19d2148ec0e9ed4e16e7dc60e33fb0e2
+2020-03-29T18:09:59.378Z info: Verifying actual and expected Station value
+2020-03-29T18:10:43.613Z info: URL  loaded successfully
+2020-03-29T18:10:43.619Z info: Session id is : ec629476efe028b7ca57399c603fdbd1
+2020-03-29T18:10:49.708Z info: Verifying actual and expected Station value
+2020-03-29T18:13:08.808Z info: URL  loaded successfully
+2020-03-29T18:13:08.813Z info: Session id is : 6433e38fa6789f3222dbb96bab6ecffe
+2020-03-29T18:13:41.664Z info: Verifying actual and expected Station value
+2020-03-29T18:15:04.426Z info: URL  loaded successfully
+2020-03-29T18:15:04.432Z info: Session id is : 3458231c009b0d79fead8eb150a6ea74
+2020-03-29T18:15:12.682Z info: Verifying actual and expected Station value
+2020-04-04T12:38:50.004Z info: URL  loaded successfully
+2020-04-04T12:38:50.128Z info: Session id is : e6fff4993291f5a3b74030d99f0c6de6
+2020-04-04T12:39:00.384Z info: Verifying actual and expected Station value

@@ -34,7 +34,7 @@ describe('Dropdon test', () => {
         let EC = browser.ExpectedConditions;
         const dropdownElement = element(by.id('country'))
         browser.wait(EC.elementToBeClickable(dropdownElement), 6000, 'Not visible')
-
+        //Changes coming from master
         selectDataFromDropDown(dropdownElement)
 
     })

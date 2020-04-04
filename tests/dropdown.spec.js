@@ -14,22 +14,22 @@ describe('Dropdon test', () => {
         });
 
 
-        let arr = items.then(x => {
-            const dd = []
+        let arrayItems = items.then(x => {
+            const dataArray = []
             x.forEach(data => {
                 if (data.index !== 0) {
-                    dd.push(data.optionsText)
+                    dataArray.push(data.optionsText)
                 }
 
             });
-            return dd
+            return dataArray
         });
-        arr.then(x => {
+        arrayItems.then(x => {
             console.log(`Elements are ${x}`)
         })
 
     }
-    it('Selecting element from dropdown', () => {
+    it('Selecting element from dropdown list', async () => {
         browser.get('http://www.helpingtesters.com/practice/protractor/dropdown.php')
         let EC = browser.ExpectedConditions;
         const dropdownElement = element(by.id('country'))
@@ -37,5 +37,10 @@ describe('Dropdon test', () => {
         //Changes coming from master
         selectDataFromDropDown(dropdownElement)
 
-    })
+    }, 30000)
+
+    it('Print console log', async () => {
+        console.log('Print data in console')
+
+    }, 30000)
 })

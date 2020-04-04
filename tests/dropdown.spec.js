@@ -38,6 +38,7 @@ describe('Dropdon test', () => {
         selectDataFromDropDown(dropdownElement)
         //changes coming from branchgit config --global user.name
         browser.sleep(4000)
+        browser.close()
 
     }, 30000)
 

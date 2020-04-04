@@ -51,5 +51,6 @@ describe('Dropdon test', () => {
 it('Adding tests for web table ', async () => {
     browser.get('http://www.way2automation.com/angularjs-protractor/webtables/')
     browser.sleep(3000)
+    console.log('Closing the browser');
     browser.quit()
 })

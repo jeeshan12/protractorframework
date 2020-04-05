@@ -44,7 +44,8 @@ describe('Dropdon test', () => {
 
     it('Print console log', async () => {
         console.log('Print data in console');
-
+        browser.get('https://github.com/')
+        browser.close()
     }, 30000)
 })
 

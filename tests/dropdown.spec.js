@@ -36,7 +36,7 @@ describe('Dropdon test', () => {
         browser.wait(EC.elementToBeClickable(dropdownElement), 6000, 'Not visible');
         //Changes coming from master
         selectDataFromDropDown(dropdownElement);
-        //changes coming from branchgit config --global user.name
+        //changes coming from branch
         browser.sleep(4000);
         browser.close();
 

@@ -36,6 +36,7 @@ describe('One way flight booking ', () => {
             });
             searchPage.clickSearchFlightButton();
             browser.sleep(3000);
+            console.log('Scenario completed')
         })
     })
 })

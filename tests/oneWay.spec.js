@@ -12,9 +12,9 @@ describe('One way flight booking ', () => {
             browser.get('/').then(() => {
                 log.info(`URL  loaded successfully`)
                 browser.getSession().then(session => {
-                    browser.takeScreenshot().then(png => {
-                        commonUtils.writeScreenShot('png', './screenshots/' + (Math.floor(Date.now() / 1000)).toString() + ".png")
-                    })
+                    // browser.takeScreenshot().then(png => {
+                    //     commonUtils.writeScreenShot('png', './screenshots/' + (Math.floor(Date.now() / 1000)).toString() + ".png")
+                    // })
                     log.info(`Session id is : ${session.getId()}`)
                 }).catch(e => {
                     log.error(`Error is ${e}`)
@@ -36,6 +36,7 @@ describe('One way flight booking ', () => {
             });
             searchPage.clickSearchFlightButton();
             browser.sleep(3000);
+            searchPage.clickSearchFlightButton();
         })
     })
 })
